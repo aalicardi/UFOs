@@ -2,7 +2,9 @@
 ## Background
 Exploring UFO data in McMinnville, Oregon.
 
-###Purpose
+* Using Javascript and HTML
+
+### Purpose
 
 ## Analysis
 
